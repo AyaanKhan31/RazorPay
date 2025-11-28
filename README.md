@@ -55,7 +55,6 @@ A single-page, RazorPay-inspired fintech landing page built with React and Vite.
 - Tablet (601–1024px): two-column hero and product highlights, responsive grids.
 - Desktop (≥1025px): full navigation, multi-column grids, side-by-side hero layout.
 
-## Customization
-- Theme colors and typography are defined in `src/styles/global.css` (CSS variables).
-- Update hero copy, feature data, and product tab data inside the respective component files.
-- Replace `screenshot.png` with an actual capture of the page after running `npm run dev`.
+## Screenshot
+
+![alt text](image.png)
